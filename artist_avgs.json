@@ -1,0 +1,114 @@
+{
+  "Taylor Swift": {
+    "danceability": 0.621,
+    "energy": 0.574,
+    "acousticness": 0.301,
+    "liveness": 0.122,
+    "loudness": -8.669
+  },
+  "Drake": {
+    "danceability": 0.586,
+    "energy": 0.6,
+    "acousticness": 0.083,
+    "liveness": 0.314,
+    "loudness": -7.145
+  },
+  "Bad Bunny": {
+    "danceability": 0.763,
+    "energy": 0.707,
+    "acousticness": 0.176,
+    "liveness": 0.234,
+    "loudness": -4.699
+  },
+  "Travis Scott": {
+    "danceability": 0.673,
+    "energy": 0.653,
+    "acousticness": 0.191,
+    "liveness": 0.149,
+    "loudness": -5.121
+  },
+  "Zach Bryan": {
+    "danceability": 0.533,
+    "energy": 0.405,
+    "acousticness": 0.545,
+    "liveness": 0.136,
+    "loudness": -8.347
+  },
+  "The Weeknd": {
+    "danceability": 0.655,
+    "energy": 0.608,
+    "acousticness": 0.153,
+    "liveness": 0.216,
+    "loudness": -7.132
+  },
+  "Kanye West": {
+    "danceability": 0.618,
+    "energy": 0.629,
+    "acousticness": 0.156,
+    "liveness": 0.298,
+    "loudness": -6.017
+  },
+  "Morgan Wallen": {
+    "danceability": 0.619,
+    "energy": 0.7,
+    "acousticness": 0.361,
+    "liveness": 0.195,
+    "loudness": -5.401
+  },
+  "21 Savage": {
+    "danceability": 0.835,
+    "energy": 0.641,
+    "acousticness": 0.075,
+    "liveness": 0.165,
+    "loudness": -6.817
+  },
+  "Future": {
+    "danceability": 0.726,
+    "energy": 0.563,
+    "acousticness": 0.141,
+    "liveness": 0.131,
+    "loudness": -6.0
+  },
+  "SZA": {
+    "danceability": 0.56,
+    "energy": 0.592,
+    "acousticness": 0.356,
+    "liveness": 0.228,
+    "loudness": -6.585
+  },
+  "Peso Pluma": {
+    "danceability": 0.716,
+    "energy": 0.73,
+    "acousticness": 0.341,
+    "liveness": 0.126,
+    "loudness": -5.952
+  },
+  "$uicideboy$": {
+    "danceability": 0.806,
+    "energy": 0.671,
+    "acousticness": 0.171,
+    "liveness": 0.221,
+    "loudness": -6.112
+  },
+  "Kendrick Lamar": {
+    "danceability": 0.723,
+    "energy": 0.602,
+    "acousticness": 0.066,
+    "liveness": 0.151,
+    "loudness": -6.399
+  },
+  "Juice WRLD": {
+    "danceability": 0.623,
+    "energy": 0.649,
+    "acousticness": 0.133,
+    "liveness": 0.19,
+    "loudness": -6.178
+  },
+  "Lil Baby": {
+    "danceability": 0.852,
+    "energy": 0.507,
+    "acousticness": 0.073,
+    "liveness": 0.163,
+    "loudness": -7.108
+  }
+}
