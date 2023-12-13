@@ -27,12 +27,12 @@
     "liveness": 0.149,
     "loudness": -5.121
   },
-  "Zach Bryan": {
-    "danceability": 0.533,
-    "energy": 0.405,
-    "acousticness": 0.545,
-    "liveness": 0.136,
-    "loudness": -8.347
+  "Kanye West": {
+    "danceability": 0.618,
+    "energy": 0.629,
+    "acousticness": 0.156,
+    "liveness": 0.298,
+    "loudness": -6.017
   },
   "The Weeknd": {
     "danceability": 0.655,
@@ -41,12 +41,12 @@
     "liveness": 0.216,
     "loudness": -7.132
   },
-  "Kanye West": {
-    "danceability": 0.618,
-    "energy": 0.629,
-    "acousticness": 0.156,
-    "liveness": 0.298,
-    "loudness": -6.017
+  "Zach Bryan": {
+    "danceability": 0.523,
+    "energy": 0.39,
+    "acousticness": 0.594,
+    "liveness": 0.139,
+    "loudness": -8.629
   },
   "Morgan Wallen": {
     "danceability": 0.619,
